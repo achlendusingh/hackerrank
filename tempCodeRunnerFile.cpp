@@ -1,0 +1,1 @@
+  cout<<dequeue(&q)<<endl;
