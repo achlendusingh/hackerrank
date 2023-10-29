@@ -17,7 +17,7 @@ int main()
   printf("%p\n", *(name+11));   // Output: o
 
   char *namePtr;
-
+   printf("Hello");
   namePtr = name;
   printf("%c", *namePtr);     // Output: H
   printf("%c", *(namePtr+1));   // Output: a
